@@ -8,6 +8,6 @@
 </head>
 <body>
 	
-	<a href="jsps/my.jsp">go to my jsp</a>
+	<a href="jsps/main.jsp">go to my jsp</a>
 </body>
 </html>
